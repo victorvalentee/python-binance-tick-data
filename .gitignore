@@ -1,5 +1,6 @@
-# Project config files
+# Project config and data files
 config.py
+data/
 
 # PyCharm files
 .idea/
